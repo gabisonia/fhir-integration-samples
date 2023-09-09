@@ -10,6 +10,7 @@ This repo provides HL7 FHIR code samples on .net.
 | Epic Auth  | [Source](https://github.com/gabisonia/fhir-integration-samples/tree/main/Epic.Auth)  | Epic Auth - backend system|
 
 
+## FHIR Resources
 
 | Resources    | URL | Description    |
 | -------- | ------- |------- |
