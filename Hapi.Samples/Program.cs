@@ -2,10 +2,13 @@
 
 Console.WriteLine("Hello, Hapi Server!");
 
-var organizationManager = new OrganizationManager();
-await organizationManager.GetAllOrganizationsAsync();
+// var organizationManager = new OrganizationManager();
+// await organizationManager.GetAllOrganizationsAsync();
+//
+//
+// var practitionerManager = new PractitionerManagement();
+// // test organizationId 37751
+// await practitionerManager.GetAllPractitionersAsync();
 
-
-var practitionerManager = new PractitionerManagement();
-// test organizationId 37751
-await practitionerManager.GetAllPractitionersAsync();
+var scheduleManager = new ScheduleManager();
+await scheduleManager.FetchSchedulesAndTimeSlotsForPractitionerAsync("1566020");
