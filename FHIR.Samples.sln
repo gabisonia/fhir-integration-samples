@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerner.Auth", "Cerner.Auth\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epic.Auth", "Epic.Auth\Epic.Auth.csproj", "{972FF8E7-4A03-48DB-8E35-ADA2A01FB7F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hapi.Samples", "Hapi.Samples\Hapi.Samples.csproj", "{036B513B-8D46-46BC-9D85-0F09CB22B86C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{972FF8E7-4A03-48DB-8E35-ADA2A01FB7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972FF8E7-4A03-48DB-8E35-ADA2A01FB7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972FF8E7-4A03-48DB-8E35-ADA2A01FB7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036B513B-8D46-46BC-9D85-0F09CB22B86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036B513B-8D46-46BC-9D85-0F09CB22B86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036B513B-8D46-46BC-9D85-0F09CB22B86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036B513B-8D46-46BC-9D85-0F09CB22B86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
