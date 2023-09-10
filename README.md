@@ -8,6 +8,7 @@ This repo provides HL7 FHIR code samples on .net.
 | -------- | ------- |------- |
 | Cerner Auth  | [Source](https://github.com/gabisonia/fhir-integration-samples/tree/main/Cerner.Auth)  | Cerner Auth - backend system |
 | Epic Auth  | [Source](https://github.com/gabisonia/fhir-integration-samples/tree/main/Epic.Auth)  | Epic Auth - backend system|
+| Hapi Samples  | [Source](https://github.com/gabisonia/fhir-integration-samples/tree/main/Hapi.Samples)  | Hapi Server samples - backend system|
 
 
 ## FHIR Resources
